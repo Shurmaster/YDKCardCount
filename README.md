@@ -4,7 +4,7 @@ This python programs reads every ".ydk" file in the "deck" directory and all car
 
 ![Example_Of_Output_File](https://i.imgur.com/UJfPSul.png)
 
-## usage: 
+## Usage: 
 Card_Reader.py
 
 ![Example of me using program](https://i.imgur.com/gyVcE3q.png)
